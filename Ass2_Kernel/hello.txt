@@ -1,0 +1,6 @@
+set x 5555555
+print x
+set Bob fjfffjfj
+print Bob
+set Bob 33
+print Bob

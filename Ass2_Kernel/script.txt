@@ -1,0 +1,5 @@
+set y 888888
+set z 777777
+set x 999999
+print x
+print y

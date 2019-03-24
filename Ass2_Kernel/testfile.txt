@@ -1,0 +1,19 @@
+help
+run script.txt
+set x 66666
+print x
+set z Testcase_1:repeated_filenames
+print z
+exec hello.txt hello.txt
+set z Testcase_2:one_file
+print z
+exec hello.txt
+set z Testcase_3:three_file
+print z
+exec hello.txt script.txt test.txt
+set z Done
+print z
+quit
+
+
+
