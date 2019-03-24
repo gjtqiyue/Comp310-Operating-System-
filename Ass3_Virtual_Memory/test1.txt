@@ -1,0 +1,24 @@
+set x test1
+print x
+set x test2
+print x
+set x test3
+print x
+set x test4
+print x
+set x test5
+print x
+set x test6
+print x
+set x test7
+print x
+set x test8
+print x
+set x test9
+print x
+set x test10
+print x
+set x test11
+print x
+set x test12
+print x

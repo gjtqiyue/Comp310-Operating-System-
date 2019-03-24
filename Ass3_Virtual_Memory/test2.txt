@@ -1,0 +1,24 @@
+set x program1
+print x
+set x program2
+print x
+set x program3
+print x
+set x program4
+print x
+set x program5
+print x
+set x program6
+print x
+set x program7
+print x
+set x program8
+print x
+set x program9
+print x
+set x program10
+print x
+set x program11
+print x
+set x program12
+print x
